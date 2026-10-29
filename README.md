@@ -1,11 +1,67 @@
 # FundedSeat - Deal History
 
-> This repository will be automatically populated by the hourly sync workflow.
+Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
-**Firm page:** https://propfirmdiscount.com/prop-firm/fundedseat/
+**Prop firm page:** https://propfirmdiscount.com/prop-firm/fundedseat/
 
-**Standing discount code:** PFD (50%)
+**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+
+Use discount code **PFD** to get **50%** on FundedSeat challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all FundedSeat evaluation accounts.
 
 ---
 
-Last synced: Never (waiting for first sync)
+## Latest Deal
+
+### FundedSeat - 50% Off First 4 Challenge Entry Costs
+
+**Published:** 2026-09-03  
+**Offer ends:** Ended  
+**Discount:** 50%  
+**Scope:** 1-Step Daily, Sprint, Instant, Ultra, Multiple Uses  
+
+**Code:** PFD  
+
+**Deal page:** https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/
+
+---
+
+## Deal History
+
+Total deals tracked: **14**
+
+### 2026 (8 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2026-09-03 | 50% Off First 4 Challenge Entry Costs | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/) |
+| 2026-07-28 | 50% Off 1-Step Daily Ultra Initial Purchase Price | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-daily-ultra-evaluations/) |
+| 2026-07-13 | 50% Off Evaluation Purchase Price | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-discount/) |
+| 2026-06-29 | 55% Reduction On Challenge Pricing | 55% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-55-discount-3-evaluations/) |
+| 2026-06-22 | 60% Off Initial Challenge Fee Limited Time Offer | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-first-purchase/) |
+| 2026-05-19 | 60% Off Any 2 Evaluation Programs | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-discord-launch/) |
+| 2026-02-16 | $50,000 Evaluation Challenge Reduced To $59 With 60% Discount | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-evaluation/) |
+| 2026-01-30 | 60% Off $50,000 Account Purchase Price For $59 | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-off-50000-account-deal/) |
+
+### 2025 (6 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2025-10-17 | 60% Off All Evaluation Accounts And $25,000 Instant Challenge | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-accounts/) |
+| 2025-09-17 | 60% Off Evaluation Challenges with Pricing Starting at $69.95 | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-flash-sale/) |
+| 2025-08-25 | 60% Off All Accounts and 50K Challenge For $69.95 | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-challenge-discount/) |
+| 2025-08-21 | 50% Off All Evaluation and Instant Accounts | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-all-challenges/) |
+| 2025-08-18 | 50% Off Evaluation Accounts and $39 Instant 50K Challenge Pricing | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-challenges-39-instant-account/) |
+| 2025-08-17 | 50% Off All Challenges And 25,000 Instant Funding Reduced From $450 To $225 | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-challenges-instant-funding/) |
+
+---
+
+## About This Repository
+
+This repository tracks all historical deals for **FundedSeat** published on PropFirmDiscount.com. Updated hourly via automated sync.
+
+**Data source:** PropFirmDiscount.com  
+**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fundedseat/  
+
+---
+
+Last synced: 2026-10-29T02:42:46Z (auto, hourly)
