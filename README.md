@@ -64,4 +64,4 @@ This repository tracks all historical deals for **FundedSeat** published on Prop
 
 ---
 
-Last synced: 2026-10-29T02:42:46Z (auto, hourly)
+Last synced: 2026-10-29T06:32:12Z (auto, hourly)
