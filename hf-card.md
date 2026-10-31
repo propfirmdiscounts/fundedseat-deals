@@ -1,44 +1,66 @@
 ---
 license: other
+pretty_name: FundedSeat Discount Code
 configs:
 - config_name: fundedseat-deals
   data_files:
   - split: data
     path: datasets/fundedseat-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - fundedseat
 ---
 
-# FundedSeat - Discount Codes & Deal History
+# FundedSeat Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-09-03, FundedSeat deals run up to 50% OFF with code PFD, which works any time — the newest is **50% Off First 4 Challenge Entry Costs**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/fundedseat/
+> Funding Traders – Daily Payouts, withdraw from day one.
+>
+> — FundedSeat, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.fundedseat.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-09-03
+- Trustpilot: 4.3/5 (248 reviews)
+- Activate: https://propfirmdiscount.com/go/fundedseat
+- Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **50% off** on FundedSeat challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all FundedSeat evaluation accounts.
+## Current FundedSeat deal: 50% Off First 4 Challenge Entry Costs
+
+- Published: 2026-09-03
+- Offer ends: Ended
+- Offer: 50% off
+- Scope: 1-Step Daily, Sprint, Instant, Ultra, Multiple Uses
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/
+
+## FundedSeat discount code FAQ
+
+**What is the FundedSeat discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off FundedSeat challenges and accounts.
+
+**Does the FundedSeat discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current FundedSeat deal?**
+
+**50% Off First 4 Challenge Entry Costs** — published 2026-09-03. Offer ends: Ended. The offer is 50% off.
 
 ---
 
-## Latest Deal
-
-### FundedSeat - 50% Off First 4 Challenge Entry Costs
-
-**Published:** 2026-09-03  
-**Offer ends:** Ended  
-**Discount:** 50% off  
-**Scope:** 1-Step Daily, Sprint, Instant, Ultra, Multiple Uses  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **14**
 
@@ -68,19 +90,20 @@ Total deals tracked: **14**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **FundedSeat** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **FundedSeat** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fundedseat/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/fundedseat/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
