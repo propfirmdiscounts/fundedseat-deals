@@ -1,240 +1,296 @@
 [
   {
+    "prop_firm": "FundedSeat",
+    "prop_firm_slug": "fundedseat",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 12547,
     "title": "50% Off First 4 Challenge Entry Costs",
-    "offer_type": "coupon",
+    "date_published": "2026-09-03",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-09-03",
+    "offer_type": "coupon",
     "scope": [
       "1-Step Daily, Sprint, Instant, Ultra, Multiple Uses"
     ],
-    "date_published": "2026-09-03",
-    "date_exp": "Ended",
-    "last_verified": "2026-09-03",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 12378,
     "title": "50% Off 1-Step Daily Ultra Initial Purchase Price",
-    "offer_type": "coupon",
+    "date_published": "2026-07-28",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-07-28",
+    "offer_type": "coupon",
     "scope": [
       "1-Step Daily Ultra Accounts, First Two Accounts Only"
     ],
-    "date_published": "2026-07-28",
-    "date_exp": "Ended",
-    "last_verified": "2026-07-28",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-daily-ultra-evaluations/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 12319,
     "title": "50% Off Evaluation Purchase Price",
-    "offer_type": "coupon",
+    "date_published": "2026-07-13",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-07-13",
+    "offer_type": "coupon",
     "scope": [
       "3 Purchases"
     ],
-    "date_published": "2026-07-13",
-    "date_exp": "Ended",
-    "last_verified": "2026-07-13",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-discount/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 12248,
     "title": "55% Reduction On Challenge Pricing",
-    "offer_type": "coupon",
+    "date_published": "2026-06-29",
+    "date_exp": "Ended",
     "discount_value": "55%",
+    "last_verified": "2026-06-29",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluations, Up To 3 Purchases Per User"
     ],
-    "date_published": "2026-06-29",
-    "date_exp": "Ended",
-    "last_verified": "2026-06-29",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-55-discount-3-evaluations/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 12612,
     "title": "60% Off Initial Challenge Fee Limited Time Offer",
-    "offer_type": "coupon",
+    "date_published": "2026-06-22",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-06-22",
+    "offer_type": "coupon",
     "scope": [
       "First Purchase, All Evaluation Accounts"
     ],
-    "date_published": "2026-06-22",
-    "date_exp": "Ended",
-    "last_verified": "2026-06-22",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-first-purchase/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11973,
     "title": "60% Off Any 2 Evaluation Programs",
-    "offer_type": "coupon",
+    "date_published": "2026-05-19",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-05-19",
+    "offer_type": "coupon",
     "scope": [
       "Any Challenge Plan, 2 Uses Per Customer"
     ],
-    "date_published": "2026-05-19",
-    "date_exp": "Ended",
-    "last_verified": "2026-05-19",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-discord-launch/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11383,
     "title": "$50,000 Evaluation Challenge Reduced To $59 With 60% Discount",
-    "offer_type": "coupon",
+    "date_published": "2026-02-16",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-02-16",
+    "offer_type": "coupon",
     "scope": [
       "$50,000 Account, 1-Step Challenge"
     ],
-    "date_published": "2026-02-16",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-16",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-evaluation/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11384,
     "title": "60% Off $50,000 Account Purchase Price For $59",
-    "offer_type": "coupon",
+    "date_published": "2026-01-30",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-01-30",
+    "offer_type": "coupon",
     "scope": [
       "$50,000 Account, 1-Step One Day Pass, No Evaluation"
     ],
-    "date_published": "2026-01-30",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-30",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-off-50000-account-deal/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11385,
     "title": "60% Off All Evaluation Accounts And $25,000 Instant Challenge",
-    "offer_type": "coupon",
+    "date_published": "2025-10-17",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-10-17",
+    "offer_type": "coupon",
     "scope": [
       "All Accounts, $25,000 Instant Challenge"
     ],
-    "date_published": "2025-10-17",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-17",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-accounts/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11386,
     "title": "60% Off Evaluation Challenges with Pricing Starting at $69.95",
-    "offer_type": "coupon",
+    "date_published": "2025-09-17",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-09-17",
+    "offer_type": "coupon",
     "scope": [
       "All 1-Step Accounts, $50K, $100K, $150K"
     ],
-    "date_published": "2025-09-17",
-    "date_exp": "Ended",
-    "last_verified": "2025-09-17",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-flash-sale/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11387,
     "title": "60% Off All Accounts and 50K Challenge For $69.95",
-    "offer_type": "coupon",
+    "date_published": "2025-08-25",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-08-25",
+    "offer_type": "coupon",
     "scope": [
       "All Accounts, 50K 1-Step Challenge"
     ],
-    "date_published": "2025-08-25",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-25",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-challenge-discount/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11388,
     "title": "50% Off All Evaluation and Instant Accounts",
-    "offer_type": "coupon",
+    "date_published": "2025-08-21",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-08-21",
+    "offer_type": "coupon",
     "scope": [
       "All Challenges, 1-Step, Instant Funding"
     ],
-    "date_published": "2025-08-21",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-21",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-all-challenges/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11389,
     "title": "50% Off Evaluation Accounts and $39 Instant 50K Challenge Pricing",
-    "offer_type": "coupon",
+    "date_published": "2025-08-18",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-08-18",
+    "offer_type": "coupon",
     "scope": [
       "All Challenges, $50000 Instant Account"
     ],
-    "date_published": "2025-08-18",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-18",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-challenges-39-instant-account/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "FundedSeat",
     "prop_firm_slug": "fundedseat",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedseat",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundedseat/",
     "deal_id": 11390,
     "title": "50% Off All Challenges And 25,000 Instant Funding Reduced From $450 To $225",
-    "offer_type": "coupon",
+    "date_published": "2025-08-17",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-08-17",
+    "offer_type": "coupon",
     "scope": [
       "All Challenges, 25000 Account, Instant Funding, 1-Step"
     ],
-    "date_published": "2025-08-17",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-17",
     "post_url": "https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-challenges-instant-funding/",
-    "prop_firm": "FundedSeat",
-    "prop_firm_slug": "fundedseat",
-    "standing_code": "PFD",
-    "code": "PFD"
+    "code": "PFD",
+    "code_state": "standing"
   }
 ]
