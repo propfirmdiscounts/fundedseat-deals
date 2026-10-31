@@ -26,7 +26,7 @@ As of 2026-09-03, FundedSeat deals run up to 50% OFF with code PFD, which works 
 > — FundedSeat, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.fundedseat.com)
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every FundedSeat deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-03
 - Trustpilot: 4.3/5 (248 reviews)
