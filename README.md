@@ -2,10 +2,6 @@
 
 As of 2026-09-03, FundedSeat deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off First 4 Challenge Entry Costs.
 
-> Funding Traders – Daily Payouts, withdraw from day one.
->
-> — FundedSeat, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.fundedseat.com)
-
 - Code: PFD
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every FundedSeat deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
