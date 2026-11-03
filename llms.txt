@@ -2,7 +2,7 @@
 
 This dataset tracks historical deal observations for FundedSeat from PropFirmDiscount.com.
 
-Standing exclusive discount code: PFD (50%)
+Standing exclusive discount code: PFD (65%)
 Works any time on all FundedSeat challenges and accounts.
 
 Prop firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
