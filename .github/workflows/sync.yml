@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: fundedseat
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: fundedseat
   DEALSTORE_ID: 457
   FIRM_NAME: FundedSeat
