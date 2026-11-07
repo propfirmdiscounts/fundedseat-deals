@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: fundedseat-discount-codes
+  HF_NAMESPACE: fundedseat
+  HF_REPO_NAME: fundedseat-deals
   FIRM_SLUG: fundedseat
   DEALSTORE_ID: 457
   FIRM_NAME: FundedSeat
