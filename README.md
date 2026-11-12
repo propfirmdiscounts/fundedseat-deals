@@ -10,7 +10,7 @@ As of 2026-09-03, FundedSeat deals run up to 65% OFF with code PFD, which works 
 - Discount: Up to 65% off (what the code takes off the firm's newest deal; it applies to every FundedSeat deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-03
-- Trustpilot: 4.3/5 (248 reviews)
+- Trustpilot: 4.3/5 (249 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedseat
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
