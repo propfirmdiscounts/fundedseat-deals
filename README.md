@@ -1,13 +1,13 @@
 # FundedSeat - Discount Codes & Deal History
 
-As of 2026-09-03, FundedSeat deals run up to 65% OFF with code PFD, which works any time — the newest is 50% Off First 4 Challenge Entry Costs.
+As of 2026-11, FundedSeat deals run 65% OFF with code PFD, which works any time — the newest is 50% Off First 4 Challenge Entry Costs.
 
 > Funding Traders – Daily Payouts, withdraw from day one.
 >
 > — FundedSeat, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.fundedseat.com)
 
 - Code: PFD
-- Discount: Up to 65% off (what the code takes off the firm's newest deal; it applies to every FundedSeat deal, whatever form that deal is stated in)
+- Discount: 65% off (what the code takes off the firm's newest deal; it applies to every FundedSeat deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-03
 - Trustpilot: 4.3/5 (249 reviews)
@@ -16,7 +16,7 @@ As of 2026-09-03, FundedSeat deals run up to 65% OFF with code PFD, which works 
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current FundedSeat deal: 50% Off First 4 Challenge Entry Costs
+## Current FundedSeat deal: 50% Off First 4 Challenge Entry Costs with code PFD
 
 - Published: 2026-09-03
 - Offer ends: Ended
@@ -29,7 +29,7 @@ As of 2026-09-03, FundedSeat deals run up to 65% OFF with code PFD, which works 
 
 **What is the FundedSeat discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 65% off FundedSeat challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 65% off FundedSeat challenges and accounts.
 
 **Does the FundedSeat discount code expire?**
 
@@ -37,7 +37,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FundedSeat deal?**
 
-**50% Off First 4 Challenge Entry Costs** — published 2026-09-03. Offer ends: Ended. The offer is 50% off.
+**50% Off First 4 Challenge Entry Costs with code PFD** — published 2026-09-03. Offer ends: Ended. The offer is 50% off.
 
 ---
 
@@ -49,25 +49,25 @@ Total deals tracked: **14**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-09-03 | 50% Off First 4 Challenge Entry Costs | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/) |
-| 2026-07-28 | 50% Off 1-Step Daily Ultra Initial Purchase Price | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-daily-ultra-evaluations/) |
-| 2026-07-13 | 50% Off Evaluation Purchase Price | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-discount/) |
-| 2026-06-29 | 55% Reduction On Challenge Pricing | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-55-discount-3-evaluations/) |
-| 2026-06-22 | 60% Off Initial Challenge Fee Limited Time Offer | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-first-purchase/) |
-| 2026-05-19 | 60% Off Any 2 Evaluation Programs | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-discord-launch/) |
-| 2026-02-16 | $50,000 Evaluation Challenge Reduced To $59 With 60% Discount | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-evaluation/) |
-| 2026-01-30 | 60% Off $50,000 Account Purchase Price For $59 | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-off-50000-account-deal/) |
+| 2026-09-03 | FundedSeat: 50% Off First 4 Challenge Entry Costs with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/) |
+| 2026-07-28 | FundedSeat: 50% Off 1-Step Daily Ultra Initial Purchase Price with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-daily-ultra-evaluations/) |
+| 2026-07-13 | FundedSeat: 50% Off Evaluation Purchase Price with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-discount/) |
+| 2026-06-29 | FundedSeat: 55% Reduction On Challenge Pricing with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-55-discount-3-evaluations/) |
+| 2026-06-22 | FundedSeat: 60% Off Initial Challenge Fee Limited Time Offer with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-first-purchase/) |
+| 2026-05-19 | FundedSeat: 60% Off Any 2 Evaluation Programs with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-discord-launch/) |
+| 2026-02-16 | FundedSeat: $50,000 Evaluation Challenge Reduced To $59 With 60% Discount with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-evaluation/) |
+| 2026-01-30 | FundedSeat: 60% Off $50,000 Account Purchase Price For $59 with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-off-50000-account-deal/) |
 
 ### 2025 (6 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-10-17 | 60% Off All Evaluation Accounts And $25,000 Instant Challenge | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-accounts/) |
-| 2025-09-17 | 60% Off Evaluation Challenges with Pricing Starting at $69.95 | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-flash-sale/) |
-| 2025-08-25 | 60% Off All Accounts and 50K Challenge For $69.95 | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-challenge-discount/) |
-| 2025-08-21 | 50% Off All Evaluation and Instant Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-all-challenges/) |
-| 2025-08-18 | 50% Off Evaluation Accounts and $39 Instant 50K Challenge Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-challenges-39-instant-account/) |
-| 2025-08-17 | 50% Off All Challenges And 25,000 Instant Funding Reduced From $450 To $225 | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-challenges-instant-funding/) |
+| 2025-10-17 | FundedSeat: 60% Off All Evaluation Accounts And $25,000 Instant Challenge with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-accounts/) |
+| 2025-09-17 | FundedSeat: 60% Off Evaluation Challenges with Pricing Starting at $69.95 with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-flash-sale/) |
+| 2025-08-25 | FundedSeat: 60% Off All Accounts and 50K Challenge For $69.95 with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-50k-challenge-discount/) |
+| 2025-08-21 | FundedSeat: 50% Off All Evaluation and Instant Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-all-challenges/) |
+| 2025-08-18 | FundedSeat: 50% Off Evaluation Accounts and $39 Instant 50K Challenge Pricing with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-challenges-39-instant-account/) |
+| 2025-08-17 | FundedSeat: 50% Off All Challenges And 25,000 Instant Funding Reduced From $450 To $225 with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-challenges-instant-funding/) |
 
 ---
 
