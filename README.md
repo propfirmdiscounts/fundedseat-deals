@@ -1,6 +1,6 @@
-# FundedSeat - Discount Codes & Deal History
+# FundedSeat Discount Code & Deal History
 
-As of November 2026, the verified FundedSeat discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "50% Off First 4 Challenge Entry Costs with code PFD".
+As of November 2026, the verified FundedSeat discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "50% Off First 4 Challenge Entry Costs with code PFD".
 
 > Funding Traders – Daily Payouts, withdraw from day one.
 >
@@ -8,7 +8,7 @@ As of November 2026, the verified FundedSeat discount code is PFD — 50% OFF, w
 
 - Code: PFD
 - Discount: 65% off (what the code takes off the firm's newest deal; it applies to every FundedSeat deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-09-03
 - Trustpilot: [4.3/5 (249 reviews)](https://www.trustpilot.com/review/www.fundedseat.com)
 - GitHub repository: [FundedSeat Deals Repository](https://github.com/propfirmdiscounts/fundedseat-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified FundedSeat discount code is PFD — 50% OFF, w
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [FundedSeat API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current FundedSeat deal: 50% Off First 4 Challenge Entry Costs with code PFD
+## Latest FundedSeat deal: 50% Off First 4 Challenge Entry Costs with code PFD
 
 - Published: 2026-09-03
 - Offer ends: Ended
@@ -26,7 +26,7 @@ As of November 2026, the verified FundedSeat discount code is PFD — 50% OFF, w
 - Code: PFD
 - Deal page: [FundedSeat Deal Page](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/)
 
-## FundedSeat discount code FAQ
+## FundedSeat Discount Code & Deals FAQ
 
 **What is the FundedSeat discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## FundedSeat Deal History
 
 Total deals tracked: **14**
 
@@ -72,7 +72,7 @@ Total deals tracked: **14**
 
 ---
 
-## About this repository
+## About the FundedSeat Deals Dataset
 
 This repository mirrors every deal **FundedSeat** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -80,7 +80,7 @@ This repository mirrors every deal **FundedSeat** has published on PropFirmDisco
 - Prop firm profile: [FundedSeat Profile](https://propfirmdiscount.com/prop-firm/fundedseat/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/fundedseat-deals.json`
+## FundedSeat Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -112,13 +112,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
