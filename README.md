@@ -1,6 +1,6 @@
 # FundedSeat - Discount Codes & Deal History
 
-As of 2026-11, FundedSeat deals run 65% OFF with code PFD, which works any time — the newest is 50% Off First 4 Challenge Entry Costs.
+As of November 2026, FundedSeat deals offer 65% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > Funding Traders – Daily Payouts, withdraw from day one.
 >
