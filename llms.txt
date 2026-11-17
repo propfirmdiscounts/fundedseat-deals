@@ -1,4 +1,4 @@
-# FundedSeat Discount Codes
+# FundedSeat Discount Code & Deals History
 
 This dataset tracks historical deal observations for FundedSeat from PropFirmDiscount.com.
 

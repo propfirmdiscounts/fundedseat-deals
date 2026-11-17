@@ -1,4 +1,4 @@
-# FundedSeat Discount Code & Deal History
+# FundedSeat Discount Code, Deals History & Dataset
 
 As of November 2026, the verified FundedSeat discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "50% Off First 4 Challenge Entry Costs with code PFD".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified FundedSeat discount code is PFD — 65% OFF, w
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-09-03
 - Trustpilot: [4.3/5 (249 reviews)](https://www.trustpilot.com/review/www.fundedseat.com)
-- GitHub repository: [FundedSeat Deals Repository](https://github.com/propfirmdiscounts/fundedseat-deals)
+- GitHub repository: [FundedSeat Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fundedseat-deals)
 - Activate: [Activate FundedSeat Discount Code](https://propfirmdiscount.com/go/fundedseat)
 - Firm page: [FundedSeat Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundedseat/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified FundedSeat discount code is PFD — 65% OFF, w
 - Code: PFD
 - Deal page: [FundedSeat Deal Page](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/)
 
-## FundedSeat Discount Code & Deals FAQ
+## FundedSeat Discount Code & Deals History FAQ
 
 **What is the FundedSeat discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## FundedSeat Deal History
+## FundedSeat Deals History
 
 Total deals tracked: **14**
 
@@ -72,7 +72,7 @@ Total deals tracked: **14**
 
 ---
 
-## About the FundedSeat Deals Dataset
+## About the FundedSeat Discount Code & Deals History Dataset
 
 This repository mirrors every deal **FundedSeat** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -80,7 +80,7 @@ This repository mirrors every deal **FundedSeat** has published on PropFirmDisco
 - Prop firm profile: [FundedSeat Profile](https://propfirmdiscount.com/prop-firm/fundedseat/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## FundedSeat Deal Dataset: Field Definitions
+## FundedSeat Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
